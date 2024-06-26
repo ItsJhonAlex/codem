@@ -1,2 +1,13 @@
-# codem
-Traductor del lenguaje común al código morse
+
+# CodeM
+
+Simple program for translating words into morse code.
+
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
