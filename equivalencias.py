@@ -1,6 +1,6 @@
 #Diccionario de palabras del lenguaje comun al codigo morse
 
-character = {
+equivalencias = {
     "A": ".-",
     "B": "-...",
     "C": "-.-.",
